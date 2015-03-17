@@ -1,3 +1,8 @@
-;(function(level, undefined){
+;(function(game, undefined){
     /* A cios level */
-})(window.level = window.level || {})
+    var Level = game.Level = function() {
+
+
+    };
+
+})(window.game = window.game || {})
